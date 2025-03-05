@@ -1,0 +1,2 @@
+def decoder():
+    code = input("")
