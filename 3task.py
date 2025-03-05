@@ -2,10 +2,10 @@ from random import randint #С помощью этой функции будем
 
 def binar(n, mini, maxi):
     """
-    :param:
+    :param
         n (int): Число, по которому ограничивается диапазон возможных чисел
         mini (int): Минимальное число диапазона
-        maxi (int): Максимальное число диапазона
+        maxi (int): Максимальное число диапазона:
     """
     try:
         n = randint(mini, maxi)
